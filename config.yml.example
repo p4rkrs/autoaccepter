@@ -1,0 +1,12 @@
+# Your insta creds
+
+instagram:
+  username: shut
+  password: pass
+
+# Delay to check new followers request (in milliseconds)
+delay: 1000
+
+# Number of followers to accept everytime, set it a 0 for no limit.
+
+followers: 10
